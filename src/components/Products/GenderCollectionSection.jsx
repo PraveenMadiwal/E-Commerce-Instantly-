@@ -4,7 +4,7 @@ import womensCollectionImg from '../../assets/womens-collection.webp';
 
 const GenderCollectionSection = () => {
   return (
-    <section className='py-16 px-4 lg:px-0'>
+    <section className='py-16 px-4 lg:px-0 w-full'>
         <div className="container mx-auto flex flex-col md:flex-row gap-8">
             {/* womens collection */}
             <div className="relative flex-1">
